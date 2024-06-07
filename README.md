@@ -6,4 +6,4 @@
 | 5027221049 | Arsyad Rizantha Maulana Salim |
 
 ## Topologi
-![](/image/Topologi.png "test")
+![](/images/Topologi.png "test")
