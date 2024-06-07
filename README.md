@@ -4,6 +4,3 @@
 |-----|--------------|
 | 5027221061 | Hafiz Akmaldi Santosa |
 | 5027221049 | Arsyad Rizantha Maulana Salim |
-
-## Topologi
-![](/images/Topologi.png "test")
