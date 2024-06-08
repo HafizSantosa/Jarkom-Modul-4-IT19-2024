@@ -30,3 +30,18 @@ Pembagian IP dilakukan berdasarkan subnet yang telah ditentukan pada Topologi.
 ## IP Tree
 Tree nya sendiri belum selesai jadi kami kumpulkan seadanya.
 ![](https://cdn.discordapp.com/attachments/1021585230844395580/1249008641726742558/Tree20VLSM201.png?ex=6665bd71&is=66646bf1&hm=86f756392200a904a259f63ca298422a20c216798ecfbf5a31d474dc45b0ffb5&)
+
+## CIDR - CPT
+
+![alt text](images/topology.png)
+
+### Pembagian IP
+
+Berikut merupakan hasil pembagian dari topology yang ada.
+
+![alt text](<images/Sub A.png>) ![alt text](<images/Sub B.png>) ![alt text](<images/Sub C.png>) ![alt text](<images/Sub D.png>) ![alt text](<images/Sub E.png>) ![alt text](<images/Sub F.png>) ![alt text](<images/Sub G.png>) ![alt text](<images/Sub H.png>) ![alt text](<images/Sub I.png>) ![alt text](<images/Sub J.png>)
+![alt text](<images/Pembagian CIDR.png>)
+dan berikut merupakan tree hasil pembagian IP dari penggabungan yang dilakukan.
+
+![alt text](images/Flowcharts.png)
+![images/Pembagian IP CIDR.png](<images/Pembagian IP CIDR.png>)
