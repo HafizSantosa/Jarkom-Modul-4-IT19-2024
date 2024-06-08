@@ -27,3 +27,6 @@ Pembagian IP dilakukan berdasarkan subnet yang telah ditentukan pada Topologi.
 
 ![](https://cdn.discordapp.com/attachments/1021585230844395580/1248995334437212233/image.png?ex=6665b10c&is=66645f8c&hm=ebae5251787d556bb6a4447f8f310d474c17fc71c8187df0de3d17ce29ff5beb&)
 
+## IP Tree
+Tree nya sendiri belum selesai jadi kami kumpulkan seadanya.
+![](https://cdn.discordapp.com/attachments/1021585230844395580/1249008641726742558/Tree20VLSM201.png?ex=6665bd71&is=66646bf1&hm=86f756392200a904a259f63ca298422a20c216798ecfbf5a31d474dc45b0ffb5&)
